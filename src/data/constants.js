@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/0abhishek-verma",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+      "https://drive.google.com/drive/folders/1J8105g3ktOc_CQ0VlaknNWbBUZ_nkPfe",
     linkedin: "https://www.linkedin.com/in/0abhishek-verma/",
     twitter: "https://twitter.com/abhishekve78405",
     insta: "https://www.instagram.com/abhishek_verma2501/",
@@ -227,7 +227,7 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpIFdXwTTsWH7c-sbkI9YtGahHkgFW-5jHg&s",
       school: "B.N. College of Engineering & Technology, Lucknow",
       date: "Dec 2020 - July 2024",
       grade: "8.18 CGPA",
@@ -235,16 +235,16 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4m4_xZHsN4_uS0CddQ_zjz10Dt9qkVKgsg&s",
       school: "Lucknow Public School and College, Lucknow",
       date: "Apr 2019 - Apr 2020",
       grade: "66.6%",
       desc: "I completed my class 12 high school education at Lucknow Public School and College, Lucknow, where I studied Science with Computer Science.",
-      degree: "ISC(XII), Science with Computer",
+      degree: "CBSE(XII), Science with Computer",
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4m4_xZHsN4_uS0CddQ_zjz10Dt9qkVKgsg&s",
       school: "Lucknow Public School and College, Lucknow",
       date: "Apr 2017 - Apr 2018",
       grade: "72%",
@@ -261,7 +261,7 @@ export const Bio = {
       description:
         "FoodyZone is a user Friendly platform where food lovers can explore an extensive range of dishes and cuisines. Wheather you're craving a healthy meal, a quick snack, or a delightful dessert, our website makes it easy to browse, search, and select your favorite food items.",
       image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+        "https://149842033.v2.pressablecdn.com/wp-content/uploads/2019/06/html-food-website-templates-1000x750.jpg",
       tags: [
         "React Js",
         "MongoDb",
@@ -279,7 +279,7 @@ export const Bio = {
       description:
         "The Dice Number Prediction Game is an engaging and interactive web-based game that tests the player's prediction skills with a simple dice roll mechanism. The game provides a fun and competitive environment while implementing straightforward logic for scoring.",
       image:
-        "",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuxxDuu2KP149Q2Nbbopngb3yvVuO-GQfHQ&s",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       category: "web app",
       github: "https://github.com/0abhishek-verma/Dice-Game",
@@ -292,7 +292,7 @@ export const Bio = {
       description:
         "The Real-Time Weather App is a dynamic web application that provides accurate and up-to-date weather information for any location worldwide. This project is designed to offer users an intuitive interface to explore current weather conditions, forecasts, and other meteorological data.",
       image:
-        "https://github.com/0abhishek-verma/BLOGS/blob/main/Screenshot%20(69).png",
+        "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
       tags: [
        "Html",
        "Css",
@@ -307,9 +307,9 @@ export const Bio = {
       title: "Gmail Clone",
       date: "Oct 2024",
       description:
-        "The Gmail Clone is a full-stack web application built entirely using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This project replicates the essential functionalities of Gmail, providing users with a seamless and intuitive email management experience.",
+        "The Gmail Clone is a full-stack web application built entirely using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This phttps:roject replicates the essential functionalities of Gmail, providing users with a seamless and intuitive email management experience.",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXClGPqOHD_1vwOpx8H7DeZpKJ6pHDiP_g0A&s",
       tags: ["React Js", "Firebase", "Firestore", "Node JS"],
       category: "web app",
       github: "https://github.com/0abhishek-verma/Gmail-Clone",
@@ -322,7 +322,7 @@ export const Bio = {
       description:
         " A Todo Web App made with React JS, Redux, and Material UI. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
       image:
-        "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+        "https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png",
       tags: ["React Js", "Local Storage", "Node JS"],
       category: "web app",
       github: "https://github.com/0abhishek-verma/TODO-WEB",
@@ -331,11 +331,11 @@ export const Bio = {
     {
       id: 6,
       title: "PortFolio",
-      date: "Jun 202",
+      date: "Dec 2024",
       description:
         "The Personal Portfolio Website is a professional online platform designed to showcase your skills, projects, achievements, and personal information. It serves as a digital resume and a point of connection for potential employers, collaborators, or clients.",
       image:
-        "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-897UqCrQPYM9HFqbx2UUViRenapU_Z5waw&s",
       tags: ["React Js","Node JS","Material UI"],
       category: "web app",
       github: "https://github.com/0abhishek-verma/Portfolio",
