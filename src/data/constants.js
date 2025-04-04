@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/0abhishek-verma",
     resume:
-      "https://drive.google.com/file/d/1CmK1y8HvfZHmfNiKaOmRBA6hW4ELiisp/view?usp=sharing",
+      "https://0abhishek-verma.github.io/Portfolio/",
     linkedin: "https://www.linkedin.com/in/0abhishek-verma/",
     twitter: "https://twitter.com/abhishekve78405",
     insta: "https://www.instagram.com/abhishek_verma2501/",
